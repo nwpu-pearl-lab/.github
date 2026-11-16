@@ -1,7 +1,7 @@
-# NPU PEARL Lab
+# NWPU PEARL Lab
 
 **Physical Embodied AI & Reinforcement Learning Lab**  
-Northwestern Polytechnical University (NPU)
+Northwestern Polytechnical University (NWPU)
 
 PEARL stands for **P**hysical **E**mbodied **A**I and **R**einforcement **L**earning. We are a research group at Northwestern Polytechnical University led by [Prof. Xuyang Chen](https://www.xuyangchen.com/). We study how agents learn from data and interaction to make decisions and act in the physical world. Our work connects the mathematical foundations of reinforcement learning with practical problems in robotics.
 
